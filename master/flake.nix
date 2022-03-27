@@ -11,6 +11,7 @@
   inputs.src-monit-master.ref   = "refs/heads/master";
   inputs.src-monit-master.owner = "jiro4989";
   inputs.src-monit-master.repo  = "monit";
+  inputs.src-monit-master.dir   = "";
   inputs.src-monit-master.type  = "github";
   
   inputs."yaml".owner = "nim-nix-pkgs";

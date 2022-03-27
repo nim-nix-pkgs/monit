@@ -11,6 +11,7 @@
   inputs.src-monit-v1_2_2.ref   = "refs/tags/v1.2.2";
   inputs.src-monit-v1_2_2.owner = "jiro4989";
   inputs.src-monit-v1_2_2.repo  = "monit";
+  inputs.src-monit-v1_2_2.dir   = "";
   inputs.src-monit-v1_2_2.type  = "github";
   
   inputs."yaml".owner = "nim-nix-pkgs";
