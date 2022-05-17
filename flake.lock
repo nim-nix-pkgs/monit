@@ -72,11 +72,11 @@
       },
       "locked": {
         "dir": "v1_5_21",
-        "lastModified": 1652390935,
-        "narHash": "sha256-LqIoix7rbsMLPnIJRhfNbmrYqliLOHnqiaA1qx+Ri48=",
+        "lastModified": 1652791352,
+        "narHash": "sha256-Jr9+Yg0yDck39XXGfXG51ctJUekT6kYtw4Ft5upIgzk=",
         "owner": "nim-nix-pkgs",
         "repo": "cligen",
-        "rev": "2d7e60cfadfca7caa08e20caedd319dc6c206490",
+        "rev": "3c124350b7df1a2122247b84387aac175251b72b",
         "type": "github"
       },
       "original": {
@@ -238,11 +238,11 @@
       },
       "locked": {
         "dir": "1_0_0",
-        "lastModified": 1652392550,
-        "narHash": "sha256-9DQkABazct2k76jOJqIM3p9E/c+pNBOGOeotfwow4SY=",
+        "lastModified": 1652793452,
+        "narHash": "sha256-q3Djx+rfSKhIM3Y3+XGmT8nQpe7bXVku6ybL2M06o2k=",
         "owner": "nim-nix-pkgs",
         "repo": "monit",
-        "rev": "31c99c495d3ab1faf44c361542193d673559f52e",
+        "rev": "fce34e5ab0929c8d4089c886d672412c185e9d3b",
         "type": "github"
       },
       "original": {
@@ -267,11 +267,11 @@
       },
       "locked": {
         "dir": "1_1_0",
-        "lastModified": 1652392550,
-        "narHash": "sha256-9DQkABazct2k76jOJqIM3p9E/c+pNBOGOeotfwow4SY=",
+        "lastModified": 1652793452,
+        "narHash": "sha256-q3Djx+rfSKhIM3Y3+XGmT8nQpe7bXVku6ybL2M06o2k=",
         "owner": "nim-nix-pkgs",
         "repo": "monit",
-        "rev": "31c99c495d3ab1faf44c361542193d673559f52e",
+        "rev": "fce34e5ab0929c8d4089c886d672412c185e9d3b",
         "type": "github"
       },
       "original": {
@@ -296,11 +296,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652392550,
-        "narHash": "sha256-9DQkABazct2k76jOJqIM3p9E/c+pNBOGOeotfwow4SY=",
+        "lastModified": 1652793452,
+        "narHash": "sha256-q3Djx+rfSKhIM3Y3+XGmT8nQpe7bXVku6ybL2M06o2k=",
         "owner": "nim-nix-pkgs",
         "repo": "monit",
-        "rev": "31c99c495d3ab1faf44c361542193d673559f52e",
+        "rev": "fce34e5ab0929c8d4089c886d672412c185e9d3b",
         "type": "github"
       },
       "original": {
@@ -325,11 +325,11 @@
       },
       "locked": {
         "dir": "v1_2_0",
-        "lastModified": 1652392550,
-        "narHash": "sha256-9DQkABazct2k76jOJqIM3p9E/c+pNBOGOeotfwow4SY=",
+        "lastModified": 1652793452,
+        "narHash": "sha256-q3Djx+rfSKhIM3Y3+XGmT8nQpe7bXVku6ybL2M06o2k=",
         "owner": "nim-nix-pkgs",
         "repo": "monit",
-        "rev": "31c99c495d3ab1faf44c361542193d673559f52e",
+        "rev": "fce34e5ab0929c8d4089c886d672412c185e9d3b",
         "type": "github"
       },
       "original": {
@@ -354,11 +354,11 @@
       },
       "locked": {
         "dir": "v1_2_1",
-        "lastModified": 1652392550,
-        "narHash": "sha256-9DQkABazct2k76jOJqIM3p9E/c+pNBOGOeotfwow4SY=",
+        "lastModified": 1652793452,
+        "narHash": "sha256-q3Djx+rfSKhIM3Y3+XGmT8nQpe7bXVku6ybL2M06o2k=",
         "owner": "nim-nix-pkgs",
         "repo": "monit",
-        "rev": "31c99c495d3ab1faf44c361542193d673559f52e",
+        "rev": "fce34e5ab0929c8d4089c886d672412c185e9d3b",
         "type": "github"
       },
       "original": {
@@ -383,11 +383,11 @@
       },
       "locked": {
         "dir": "v1_2_2",
-        "lastModified": 1652392550,
-        "narHash": "sha256-9DQkABazct2k76jOJqIM3p9E/c+pNBOGOeotfwow4SY=",
+        "lastModified": 1652793452,
+        "narHash": "sha256-q3Djx+rfSKhIM3Y3+XGmT8nQpe7bXVku6ybL2M06o2k=",
         "owner": "nim-nix-pkgs",
         "repo": "monit",
-        "rev": "31c99c495d3ab1faf44c361542193d673559f52e",
+        "rev": "fce34e5ab0929c8d4089c886d672412c185e9d3b",
         "type": "github"
       },
       "original": {
@@ -412,11 +412,11 @@
       },
       "locked": {
         "dir": "v1_2_3",
-        "lastModified": 1652392550,
-        "narHash": "sha256-9DQkABazct2k76jOJqIM3p9E/c+pNBOGOeotfwow4SY=",
+        "lastModified": 1652793452,
+        "narHash": "sha256-q3Djx+rfSKhIM3Y3+XGmT8nQpe7bXVku6ybL2M06o2k=",
         "owner": "nim-nix-pkgs",
         "repo": "monit",
-        "rev": "31c99c495d3ab1faf44c361542193d673559f52e",
+        "rev": "fce34e5ab0929c8d4089c886d672412c185e9d3b",
         "type": "github"
       },
       "original": {
