@@ -1,6 +1,0 @@
-/bin/
-/dist/
-tests/*
-!tests/*.*
-nimcache/
-testresults/
